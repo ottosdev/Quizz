@@ -1,0 +1,31 @@
+{
+  "animes": [
+    {
+      "question": "What the main character?",
+      "answerOptions": [
+        { "text": "Luffy", "isCorrect": true },
+        { "text": "Nami", "isCorrect": false },
+        { "text": "Zoro", "isCorrect": false },
+        { "text": "Sanji", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who killed Portgas D. Ace?",
+      "answerOptions": [
+        { "text": "Marchal D. Teach", "isCorrect": true },
+        { "text": "Don Flamingo", "isCorrect": false },
+        { "text": "Marine", "isCorrect": true },
+        { "text": "Gold D. Roger", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Choose the right answer, Who is Sabo?",
+      "answerOptions": [
+        { "text": "One of Luffy Brothers", "isCorrect": false },
+        { "text": "no one", "isCorrect": false },
+        { "text": "Pirate", "isCorrect": false },
+        { "text": "REvolucionare", "isCorrect": true }
+      ]
+    }
+  ]
+}
